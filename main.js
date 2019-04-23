@@ -1,0 +1,1 @@
+var projeto = 'O melhor é o nosso';
